@@ -4,7 +4,8 @@
   "description": "A simple npm server for my reference and practice.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jayzamazing/hello_server/issues"
   },
-  "homepage": "https://github.com/jayzamazing/hello_server#readme"
+  "homepage": "https://github.com/jayzamazing/hello_server#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  }
 }
