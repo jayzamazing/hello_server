@@ -1,0 +1,24 @@
+{
+  "name": "hello_server",
+  "version": "1.0.0",
+  "description": "A simple npm server for my reference and practice.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/hello_server.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript",
+    "Express"
+  ],
+  "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/hello_server/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/hello_server#readme"
+}
